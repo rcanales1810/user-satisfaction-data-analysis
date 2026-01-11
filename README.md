@@ -8,3 +8,11 @@ The goal of this analysis is to identify patterns related to user satisfaction a
 ## Tools
 - Python
 - SQL
+
+## Key Questions
+- Is there a relationship between usage frequency and satisfaction?
+- Does low satisfaction correlate with user dropout?
+- Are there age-related patterns in satisfaction?
+
+## Dataset
+The dataset is fictional and created for learning and portfolio purposes.
