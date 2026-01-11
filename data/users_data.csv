@@ -1,1 +1,11 @@
-
+user_id,age,sessions_per_week,satisfaction_score,dropped_out
+1,22,5,4,no
+2,28,2,3,no
+3,35,1,2,yes
+4,19,6,5,no
+5,42,1,1,yes
+6,30,4,4,no
+7,25,3,3,no
+8,38,2,2,yes
+9,21,5,5,no
+10,45,1,2,yes
